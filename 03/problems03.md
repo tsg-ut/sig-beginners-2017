@@ -100,7 +100,7 @@ print(add_n(3)(4))
 
 例
 ```python
-my_filter(range(0,1000), is_perfect)
+my_filter(range(1,1000), is_perfect)
 #=>6
 #=>28
 #=>...
