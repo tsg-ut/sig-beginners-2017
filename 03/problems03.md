@@ -36,7 +36,7 @@ I don't know.
 Fizz
 4
 Bazz
-6
+Fizz
 ...
 ```
 となる
